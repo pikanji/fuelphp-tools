@@ -9,6 +9,12 @@ namespace Fuel\Tasks;
 * @copyright  2012 Kenji Suzuki
 * @license    MIT License http://www.opensource.org/licenses/mit-license.php
 */
+/*
+ * Usage:
+ *  Copy this file to "fuel/packages/oil/tasks/".
+ *  Then execute `oil refine generate:autocomplete'.
+ *  There is nothing to do in Eclipse other than placing this file in "fuel/app".
+ */
 
 class Generate
 {
